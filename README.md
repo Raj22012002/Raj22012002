@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Raj22012002
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development
+- 💞️ I’m looking for a job 
 - 📫 How to reach me 7620909449
 
 <!---
